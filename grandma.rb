@@ -25,8 +25,6 @@ def speak_to_grandma(statement)
   end 
 end
 
-
-    
     
     
     
